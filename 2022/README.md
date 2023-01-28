@@ -105,7 +105,7 @@
 ***DEM307-S-R1:** Securing AWS Workloads with SentinelOne Singularity*
 * [Video](https://www.youtube.com/watch?v=Kn3DKh7I38A)
 
-* ***DEM308-S-R1:** Four risks that create paths to sensitive data (Sonrai Security)*
+***DEM308-S-R1:** Four risks that create paths to sensitive data (Sonrai Security)*
 * [Video](https://www.youtube.com/watch?v=Ao9d15APKbA)
 
 ***DEM310-S:** Offset security concerns with Vectra AI (sponsored by Vectra AI)*
