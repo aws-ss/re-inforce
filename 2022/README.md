@@ -60,7 +60,7 @@
 ***TDR210:** [NEW LAUNCH!] Introducing Amazon GuardDuty Malware Protection*
 * [Video](https://www.youtube.com/watch?v=9wCxAZtrjpw)
 
-* ***TDR301:** A proactive approach to zero-days: Lessons learned from Log4j*
+***TDR301:** A proactive approach to zero-days: Lessons learned from Log4j*
 * [Video](https://www.youtube.com/watch?v=CEq5wGJjh1g)
 
 ***DEM301-S:** Enhance and modernize your SOC on AWS with Hunters (Hunters)*
